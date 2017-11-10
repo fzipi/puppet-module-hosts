@@ -1,13 +1,13 @@
 {
-  "name": "ghoneycutt-hosts",
+  "name": "fzipi-hosts",
   "version": "2.6.0",
-  "author": "ghoneycutt",
+  "author": "fzipi",
   "summary": "Manages host entries",
   "description": "Can ensure entries for localhost, localhost6, and $::fqdn,\nincluding aliases and optionally purge unmanaged entries.",
   "license": "Apache-2.0",
-  "source": "git://github.com/ghoneycutt/puppet-module-hosts.git",
-  "project_page": "https://github.com/ghoneycutt/puppet-module-hosts",
-  "issues_url": "https://github.com/ghoneycutt/puppet-module-hosts/issues",
+  "source": "git://github.com/fzipi/puppet-module-hosts.git",
+  "project_page": "https://github.com/fzipi/puppet-module-hosts",
+  "issues_url": "https://github.com/fzipi/puppet-module-hosts/issues",
   "requirements": [
     {"name":"puppet","version_requirement":">= 3.0.0 < 5.0.0"}
   ],

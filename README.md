@@ -6,7 +6,7 @@ Manage host entries.
 Can ensure entries for localhost, localhost6, and $::fqdn, including aliases
 and optionally purge unmanaged entries.
 
-[![Build Status](https://api.travis-ci.org/ghoneycutt/puppet-module-hosts.png?branch=master)](https://travis-ci.org/ghoneycutt/puppet-module-hosts)
+[![Build Status](https://api.travis-ci.org/fzipi/puppet-module-hosts.png?branch=master)](https://travis-ci.org/fzipi/puppet-module-hosts)
 
 ===
 
